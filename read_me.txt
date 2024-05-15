@@ -17,7 +17,10 @@ Backend -> PHP (8.2.12)
 04) Change fetch URL of "forecaser.js" with your "index.php" server address.
 EX: fetch("http://localhost/weather_project/backend/index.php")
 
-08) Open the "index.html" file on your server
+05) Change API key with your key.
+EX: apiKey = "7d51b8e551c4711d9f56d8f910d4bca1";
+
+06) Open the "index.html" file on your server
 
 07) Let's enjoy!!!
 
